@@ -7,8 +7,7 @@ public class Render {
 	private String Naziv;
 	public Render(String materijali, String kamere, String objekti, String naziv) {
 		super();
-		Materijali = materijali;
-		Kamere = kamere;
+		
 		Objekti = objekti;
 		Naziv = naziv;
 	}
